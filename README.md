@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Gen-AI **
 
-- 💬 Ask me about **MAchine Learning**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **dev29122000.ad@gmail.com**
 
