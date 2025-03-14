@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryandeo291220&label=Profile%20views&color=0e75b6&style=flat" alt="aryandeo291220" /> </p>
 
-- 🌱 I’m currently learning **React, Node.js, MongoDB**
+- 🌱 I’m currently learning **Machine Learning, Gen-AI **
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **MAchine Learning**
 
 - 📫 How to reach me **dev29122000.ad@gmail.com**
 
